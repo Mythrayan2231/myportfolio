@@ -1,0 +1,19 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="8.88889" fill="white"/>
+  
+  <!-- Path for letter N -->
+  <path d="M10 33V15H12L12 29L16 15H18L18 29L22 15H24L24 33H22L22 19L18 33H16L16 19L12 33H10Z" fill="url(#paint0_linear_1545_39)"/>
+  
+  <!-- Path for letter P -->
+  <path d="M26 15V33H28V17C28 16.448 27.552 16 27 16H26V15ZM26 17H27V32H26V17Z" fill="url(#paint0_linear_1545_39)"/>
+
+  <defs>
+    <linearGradient id="paint0_linear_1545_39" x1="8" y1="35.5" x2="38.0109" y2="10.5484" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#989FFF"/>
+      <stop offset="1" stop-color="#29A2FF"/>
+    </linearGradient>
+  </defs>
+</svg>
+
+
+
